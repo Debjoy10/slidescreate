@@ -1,6 +1,7 @@
 # slidescreate
-Slides extraction from Lecture Videos
+Tired of waiting for the slides to get uploaded after each class? Well, wait no more!!   
 
+Generate the slides directly from the lecture videos using **slidescreate**! :tada::tada:
 ## 🔧 Setup
 
 You can install all required packages with `pip install -r requirements.txt`.
